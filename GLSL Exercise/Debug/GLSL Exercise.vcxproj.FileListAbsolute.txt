@@ -1,0 +1,2 @@
+D:\study\修士\image synthesis\GLSL Exercise\Debug\GLSL Exercise.exe
+D:\study\修士\image synthesis\GLSL Exercise\Debug\GLSL Exercise.pdb
